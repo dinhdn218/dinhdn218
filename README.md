@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **NextJs 14, Framer Motion**
 
-👨‍💻 All of my projects are available at [https://my-portfolio-nine-ochre-79.vercel.app/](https://dnd-portfolio.vercel.app/)
+👨‍💻 All of my projects are available at [https://dnd-portfolio.vercel.app/](https://dnd-portfolio.vercel.app/)
 
 💬 Ask me about **React, React Query**
 
